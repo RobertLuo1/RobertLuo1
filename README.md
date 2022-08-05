@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: robertluo171@gmail.com
 
-
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/RobertLuo1/RoberLuo1/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/RobertLuo1/RobertLuo1/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## Total Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/RobertLuo1/count.svg)
@@ -20,4 +19,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLuo1)](https://github.com/RobertLuo1/github-readme-stats)
 
 ## Github Status
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertLuo1&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RobertLuo1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLuo1&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
