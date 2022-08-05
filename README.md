@@ -10,10 +10,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: robertluo171@gmail.com
 
+
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/RobertLuo1/RoberLuo1/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
 ## Total Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/RobertLuo1/count.svg)
 
-## Frequency Used Language
+## Frequent Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLuo1)](https://github.com/RobertLuo1/github-readme-stats)
 
 ## Github Status
