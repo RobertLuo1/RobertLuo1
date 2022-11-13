@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Studying in SouthEast University
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning CV and Multi-Modal Segmentation 
 - 📫 How to reach me: robertluo171@gmail.com
 
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/RobertLuo1/RobertLuo1/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
