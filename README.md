@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studying in Tsinghua University
+- 🔭 I’m currently studying in Tsinghua University
 - 🌱 I’m currently learning CV and Multi-Modal Understanding and Generation 
 - 📫 How to reach me: robertluo171@gmail.com
-- for more information, please refer to robertluo1.github.io
+- For more information, please refer to [personal page](robertluo1.github.io)
 
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/RobertLuo1/RobertLuo1/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
